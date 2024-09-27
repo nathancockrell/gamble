@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gamble/static/css/main.39a00eb5.css",
-    "main.js": "/gamble/static/js/main.6e7a9f07.js",
+    "main.js": "/gamble/static/js/main.a16bf839.js",
     "static/js/453.d5d33d61.chunk.js": "/gamble/static/js/453.d5d33d61.chunk.js",
     "index.html": "/gamble/index.html",
     "main.39a00eb5.css.map": "/gamble/static/css/main.39a00eb5.css.map",
-    "main.6e7a9f07.js.map": "/gamble/static/js/main.6e7a9f07.js.map",
+    "main.a16bf839.js.map": "/gamble/static/js/main.a16bf839.js.map",
     "453.d5d33d61.chunk.js.map": "/gamble/static/js/453.d5d33d61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39a00eb5.css",
-    "static/js/main.6e7a9f07.js"
+    "static/js/main.a16bf839.js"
   ]
 }
